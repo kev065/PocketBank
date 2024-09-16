@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 
 // Importing the pages for login, register, and dashboard functionality.
 //IMPORTS THE LOGIN PAGE
-import 'package:pocket_banking/pages/login.dart';
+import 'package:pocketbank/pages/login.dart';
 //IMPORTS THE REGISTER PAGE
-import 'package:pocket_banking/pages/register.dart';
+import 'package:pocketbank/pages/register.dart';
 //IMPORTS THE DASHBOARD PAGE
-import 'package:pocket_banking/pages/dashboard.dart';
+import 'package:pocketbank/pages/dashboard.dart';
 
 // The main function is the entry point of the app.
 // It calls the runApp() method to start the PocketBankingApp.
